@@ -16,6 +16,7 @@ the content of a web page can be injected in to the page in three stage:
 * template file in site folder, the generated html file in public folder
 
 ## related tools or ideas we can borrow
+* [octopress](http://github.com/imathis/octopress)
 * [actionpack](https://github.com/rails/rails/tree/master/actionpack)
 * [jekyll](https://github.com/mojombo/jekyll)
 * [bonsai](https://github.com/benschwarz/bonsai)
