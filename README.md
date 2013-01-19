@@ -15,12 +15,15 @@ the content of a web page can be injected in to the page in three stage:
 * rails style partial
 * template file in site folder, the generated html file in public folder
 
-## related tools or ideas we can borrow
-* [octopress](http://github.com/imathis/octopress)
-* [actionpack](https://github.com/rails/rails/tree/master/actionpack)
-* [jekyll](https://github.com/mojombo/jekyll)
-* [bonsai](https://github.com/benschwarz/bonsai)
+## how to use
+* clone this repo
+* bundle install
+* rake install (use rake -T see all tasks)
+* rake preview
 
-## views we can see
+## thanks to
+* [octopress](http://github.com/imathis/octopress)
+* [jekyll](https://github.com/mojombo/jekyll)
+
 * [qiniu](http://www.qiniutek.com/)
 * [standard](http://t.mobanku.com/02040/1.htm)
