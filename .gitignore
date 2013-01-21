@@ -1,6 +1,7 @@
 *.rbc
 *.sassc
 .sass-cache
+*.swp
 capybara-*.html
 .rspec
 /.bundle
@@ -15,3 +16,5 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 /public/*
+/source/*
+/sass/*
