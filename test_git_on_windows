@@ -7,3 +7,5 @@ Just keep in mind:
 git add is a multipurpose command — you use it to begin tracking new
 
 files, to stage files, and to do other things like marking merge-conflicted files as resolved!!!
+
+If you modify a file after you run git add, you have to run git add again to stage the latest version of the file.
