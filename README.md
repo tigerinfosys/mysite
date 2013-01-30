@@ -1,4 +1,3 @@
-
 # mysite 
 the content of a web page can be injected in to the page in three stage:
  

@@ -34,15 +34,7 @@ a:link, a:visited{
 	}
 #header #logo{
 	top:36px;
-	width:290px;
-	height:45px;
-	background-image:url(../images/logo-2.png);
-	text-indent:-9999px;
-	}
-
-#header #logo{
-	top:36px;
-	width:290px;
+	width:333px;
 	height:45px;
 	background-image:url(../images/logo-2.png);
 	text-indent:-9999px;
