@@ -59,3 +59,9 @@ default, the git clone command automatically sets up your local master branch to
 master branch on the server you cloned from (assuming the remote has a master branch). Running
 git pull generally fetches data from the server you originally cloned from and automatically tries to
 merge it into the code you’re currently working on.
+
+When you have your project at a point that you want to share, you have to push it upstream. The
+command for this is simple: git push [remote-name] [branch-name]. If you want to push your
+master branch to your origin server (again, cloning generally sets up both of those names for you
+automatically), then you can run this to push your work back up to the server:
+$ git push origin master
